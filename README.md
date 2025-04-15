@@ -5,3 +5,5 @@
 
 <h2>🧑‍💻 Eric Heredia -> <em><a href="https://github.com/Heredia-Eric">https://github.com/Heredia-Eric</a></em></h2>
 (ir agregandose)
+<h2>🧑‍💻 Dario Bosque -> <em><a href="https://github.com/dariodev18">https://github.com/dariodev18</a></em></h2>
+(ir agregandose)
