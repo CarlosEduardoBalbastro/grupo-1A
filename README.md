@@ -7,3 +7,5 @@
 (ir agregandose)
 <h2>🧑‍💻 Dario Bosque -> <em><a href="https://github.com/dariodev18">https://github.com/dariodev18</a></em></h2>
 (ir agregandose)
+<h2>🧑‍💻 Carlos Balbasrto -> <em><a href="https://github.com/CarlosEduardoBalbastro">https://github.com/CarlosEduardoBalbastro</a></em></h2>
+(ir agregandose)
